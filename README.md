@@ -2,21 +2,16 @@
 
 ## Description
 
-The Importance of Prework
-Because of the challenging nature of this program, we want you to come ready to sprint on day one. To help prepare you, we've created these modules to be completed before your first day. The prework will provide you with the preliminary skills and information you need to begin the course. It will also give you a glimpse of what's to come.
+The Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, git, and JavaScript. 
 
 
 ## Installation
 
-We recommend reading the sections in sequential order, as each section builds on the previous one. You should also complete all assignments, some of which will be fairly challenging and require outside research.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+To use this Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
 ## Credits
 
@@ -24,5 +19,5 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
 
